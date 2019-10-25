@@ -11,8 +11,9 @@
 
 ## generatorConfig.xml解读
 
-![1571673807750](C:\Users\E10S\AppData\Roaming\Typora\typora-user-images\1571673807750.png)
+![](http://doze9097.top//1571673807750.png)
 
-![1571673922133](C:\Users\E10S\AppData\Roaming\Typora\typora-user-images\1571673922133.png)
+![](http://doze9097.top//1571673922133.png)
 
-![1571674007965](C:\Users\E10S\AppData\Roaming\Typora\typora-user-images\1571674007965.png)
+![](http://doze9097.top//1571674007965.png)
+

@@ -14,7 +14,7 @@ TransactionStatus - [事务具体运行状态](##事务具体运行状态)
 
 TransactionDefinition：定义了一组常量信息
 
-![1571321466563](C:\Users\E10S\AppData\Roaming\Typora\typora-user-images\1571321466563.png)
+![](http://doze9097.top//1571321466563.png)
 
 ![1571321652503](C:\Users\E10S\AppData\Roaming\Typora\typora-user-images\1571321652503.png)
 
@@ -32,11 +32,11 @@ TransactionDefinition：定义了一组常量信息
 
 1. 引入依赖
 
-   ![1571323119384](C:\Users\E10S\AppData\Roaming\Typora\typora-user-images\1571323119384.png)
+   ![](http://doze9097.top//1571323119384.png)
 
 2. 在事务中注入代理类
 
-   ![1571323217629](C:\Users\E10S\AppData\Roaming\Typora\typora-user-images\1571323217629.png)
+   ![](http://doze9097.top//1571323217629.png)
 
    ![1571323358678](C:\Users\E10S\AppData\Roaming\Typora\typora-user-images\1571323358678.png)
 
@@ -44,11 +44,11 @@ TransactionDefinition：定义了一组常量信息
 
 ### 基于aop的事务管理
 
-![1571323524129](C:\Users\E10S\AppData\Roaming\Typora\typora-user-images\1571323524129.png)
+![](http://doze9097.top//1571323524129.png)
 
 其中：
 
-![1571323599238](C:\Users\E10S\AppData\Roaming\Typora\typora-user-images\1571323599238.png)
+![](http://doze9097.top//1571323599238.png)
 
 
 
@@ -56,30 +56,31 @@ TransactionDefinition：定义了一组常量信息
 
 配置注解事务管理
 
-![1571323677045](C:\Users\E10S\AppData\Roaming\Typora\typora-user-images\1571323677045.png)
+![](http://doze9097.top//1571323677045.png)
 
 给要代理的类或方法发添加注解
 
-![1571323720181](C:\Users\E10S\AppData\Roaming\Typora\typora-user-images\1571323720181.png)
+![](http://doze9097.top//1571323720181.png)
 
 其中：
 
-![1571323769670](C:\Users\E10S\AppData\Roaming\Typora\typora-user-images\1571323769670.png)
+![](http://doze9097.top//1571323769670.png)
 
 ## 编程式事务管理
 
 1. 引入依赖：
 
-![1571322563295](C:\Users\E10S\AppData\Roaming\Typora\typora-user-images\1571322563295.png)
+![](http://doze9097.top//1571322563295.png)
 
 2. 注入模板
 
-   ![1571322649654](C:\Users\E10S\AppData\Roaming\Typora\typora-user-images\1571322649654.png)
+   ![](http://doze9097.top//1571322649654.png)
 
 3. 配置好事务管理
 
-   ![1571322684896](C:\Users\E10S\AppData\Roaming\Typora\typora-user-images\1571322684896.png)
+   ![](http://doze9097.top//1571322684896.png)
 
    
 
    > .execute()方法中传入的是TransactionCallbackWithoutResult()对象，图片中使用了匿名内部类。
+
