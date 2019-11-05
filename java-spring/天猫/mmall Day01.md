@@ -17,3 +17,10 @@
 
 ![](http://doze9097.top//1571674007965.png)
 
+## mybatis逆向生成注意事项
+
+#### 逆向生成的方法：
+
+updateByPrimarykeySelective（选择型更新）：数据中哪个不为空更新哪个
+
+updateByPrimaryKey：全更新
