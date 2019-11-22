@@ -43,3 +43,7 @@ ResponseBody：该注解可以将返回自动打包成json格式
 controller实现：
 
 ![1574260902819](C:\Users\E10S\AppData\Roaming\Typora\typora-user-images\1574260902819.png)
+
+使用内部接口分组：
+
+![](http://doze9097.top//20191121233257.png)
